@@ -36,7 +36,7 @@ body {
 }
 
 .slide h3 {
-  text-shadow: 1px 0 1px rgba(0, 0, 0, 0.849);
+  text-shadow: 2px 0 2px rgba(0, 0, 0, 0.849);
   position: absolute;
   font-size: 24px;
   bottom: 20px;
